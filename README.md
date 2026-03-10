@@ -1,8 +1,3 @@
-For your **GitHub README.md**, you should add these important sections so your project looks **professional and complete**. These are standard sections used in **data analysis projects**.
-
----
-
-# Sections to Add in GitHub README.md
 
 ## 1️⃣ Project Title
 
