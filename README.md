@@ -104,8 +104,7 @@ Add dashboard images.
 Example:
 
 ```
-
-<img width="1094" height="589" alt="Screenshot 2026-03-06 140647" src="https://github.com/user-attachments/assets/31ace557-41ab-44da-b6ea-9c18eab63a4e" />
+<img width="1094" height="589" alt="Screenshot 2026-03-06 140647" src="https://github.com/user-attachments/assets/1ed58fd2-65fe-4675-877c-97de56227c49" />
 
 ```
 
